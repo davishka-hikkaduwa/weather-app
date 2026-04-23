@@ -136,7 +136,7 @@ body {
 	padding: 40px 10%;
 	border-radius: 20px;
 	background: var(--text_light);
-	color: var(--text_med);
+	color: black;
 }
 .ajax-section .city::after {
 	content: ’’;
